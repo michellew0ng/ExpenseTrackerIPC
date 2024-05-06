@@ -1,0 +1,21 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore target directory
+target/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore all files within the "lib" folder
+lib/*
