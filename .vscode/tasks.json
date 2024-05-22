@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Open with SceneBuilder",
+            "type": "shell",
+            "command": "C:\\Program Files\\SceneBuilder\\SceneBuilder.exe",
+            "args": [
+                "${file}"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "detail": "Opens the current file with SceneBuilder"
+        }
+    ]
+}
