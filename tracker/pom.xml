@@ -29,6 +29,13 @@
             <scope>system</scope>
             <systemPath>${project.basedir}/lib/accountIPC.jar</systemPath>
         </dependency>
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>accountIPC</artifactId>
+            <version>1.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/sqlite-jdbc-3.41.2.1.jar</systemPath>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
