@@ -4,4 +4,8 @@
 
 _Developed by Michelle Wong & Ricardo Rodriguez Sanchez_ 
 
-The Expense Tracker is a something written in JavaFX which is a language both of us don't know
+The Expense Tracker is a something written in JavaFX and uses Maven.
+
+*UX Flow*
+<img width="834" alt="image" src="https://github.com/michellew0ng/ExpenseTrackerIPC/assets/67090127/49aa51d1-7bf3-45d7-9c45-9b488b25cf8d">
+
