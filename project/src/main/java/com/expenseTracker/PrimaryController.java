@@ -1,4 +1,4 @@
-package com.example;
+package com.expenseTracker;
 
 import java.io.IOException;
 import javafx.fxml.FXML;
